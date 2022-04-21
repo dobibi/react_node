@@ -10,6 +10,7 @@
   "author": "pyk",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "express": "^4.17.3",
     "mongoose": "^6.3.0",
     "run": "^1.4.0"
